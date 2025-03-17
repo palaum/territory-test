@@ -80,6 +80,14 @@
    ```
    Собранные файлы будут находиться в папке dist.
 
+## Уточнение по API
+
+**/src/api/index.js**
+
+- Для моковых данных использовался сервис [mockapi.io](https://mockapi.io/)
+- Для перехода на локальные моковые данные активируйте флаг **useMockData = true**
+
+
 ## Связаться
 
 Если у вас есть вопросы или предложения, вы можете связаться со мной:
@@ -171,6 +179,13 @@ If any data is missing in the conditions, rely on common sense.
    npm run build
    ```
    The built files will be located in the dist folder.
+
+## API Clarification
+
+**/src/api/index.js**
+
+- For mock data, the service [mockapi.io](https://mockapi.io/) was used.
+- To switch to local mock data, activate the flag **useMockData = true**
 
 ## Contact
 
